@@ -3,7 +3,9 @@ This repository contains a simple implementation of Named Entity Recognition (NE
 
 
 ## Demo
-![ner app d](https://github.com/b-fakhar/NER_LLM_Gradio/assets/59096353/fa315c22-71ee-4208-96c1-bcce27aeac3d)
+![NER app demo](https://github.com/b-fakhar/Gradio/assets/59096353/64924081-d07b-4c77-acad-07982de8cb3b)
+
+
 
 
 
